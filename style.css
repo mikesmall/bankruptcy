@@ -3,7 +3,7 @@ body {
     background-color: #282829;
     color: #ffffff;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    margin-bottom: 20px;
+    margin: 32px 0;
 }
 #container {
     width: 90%;
@@ -23,7 +23,7 @@ a {
     color: #ffffff;
 }
 .banner {
-    width: 100%;  
+    width: 100%;
     margin-bottom: 20px;
 }
 .icons, .album {
@@ -67,6 +67,9 @@ a {
       h2 {
           margin-top: 20px;
           font-size: 4.8em;
+      }
+      p {
+        font-size: 2.2em;
       }
       .icon {
           width: 160px;
